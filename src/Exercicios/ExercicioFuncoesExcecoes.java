@@ -1,4 +1,4 @@
-package br.com.ada.first973.primeiroprojeto.aulas;
+package Exercicios;
 
 import java.util.Scanner;
 
